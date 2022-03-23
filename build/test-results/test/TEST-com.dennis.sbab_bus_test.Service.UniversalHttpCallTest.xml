@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dennis.sbab_bus_test.Service.UniversalHttpCallTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-23T08:01:52" hostname="Denniss-MacBook-Pro.local" time="1.618">
+  <properties/>
+  <testcase name="httpCall()" classname="com.dennis.sbab_bus_test.Service.UniversalHttpCallTest" time="1.618"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

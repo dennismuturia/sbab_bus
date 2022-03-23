@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dennis.sbab_bus_test.Service.FetchBusServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-03-23T08:01:52" hostname="Denniss-MacBook-Pro.local" time="0.011">
+  <properties/>
+  <testcase name="filterData()" classname="com.dennis.sbab_bus_test.Service.FetchBusServiceTest" time="0.006"/>
+  <testcase name="getTopTenBuses()" classname="com.dennis.sbab_bus_test.Service.FetchBusServiceTest" time="0.0"/>
+  <testcase name="httpCallData()" classname="com.dennis.sbab_bus_test.Service.FetchBusServiceTest" time="0.002"/>
+  <testcase name="sortData()" classname="com.dennis.sbab_bus_test.Service.FetchBusServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

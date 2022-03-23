@@ -1,0 +1,2 @@
+rootProject.name = 'sbab_bus_test'
+include 'sbab_test_bus_frontend'
