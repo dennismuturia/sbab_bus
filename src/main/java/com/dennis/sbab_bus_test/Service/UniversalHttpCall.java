@@ -24,7 +24,7 @@ public  class UniversalHttpCall{
 
     private Map<String, String> buildPrams(String model){
         Map<String, String>paramMap = new HashMap<>();
-        paramMap.put("key", "79af0cbbdff04beda7ea774ecaa51343");
+        paramMap.put("key", System.getenv("trafik_key"));
         paramMap.put("model", model);
         paramMap.put("DefaultTransportModeCode", "BUS");
         return paramMap;
